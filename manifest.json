@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Nom de l'Extension",
+  "version": "0.0.0.0",
+  "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+  "description": "Description courte de l'extension",
+  "browser_action": {
+    "default_icon": {
+      "300": "Nom du fichier.png"
+    },
+    "default_title": "Nom de l'Extension",
+    "default_popup": "Nom du fichier.html"
+  },
+  "icons": {
+    "300": "Nom du fichier.png"
+  }
+}
